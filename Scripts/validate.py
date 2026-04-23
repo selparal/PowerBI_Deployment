@@ -4,7 +4,7 @@ import json
 import sys
 
 def load_config():
-    with open("config/deploy_config.yml") as f:
+    with open("Config/deploy_config.yml") as f:
         return yaml.safe_load(f)
 
 def validate_pages(report):
