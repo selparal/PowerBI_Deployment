@@ -1,0 +1,9 @@
+reports:
+  - name: Github-Test
+    report_path: "Github-Test.Report"
+    required_pages:
+      - "Page 1"
+      - "Page 2"
+      - "Page 3"
+    enabled: true
+    poc_email: "sparal@premiumiq.com"
