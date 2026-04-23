@@ -1,0 +1,10 @@
+reports:
+  - name: Github-Test
+    pbip_path: "Github-Test.SemanticModel"
+    report_path: "Github-Test.Report"
+    required_pages:
+      - "Page 1"
+      - "Page 2"
+      - "Page 3"
+    enabled: true
+    poc_email: "sparal@premiumiq.com"
